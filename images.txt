@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 alpine
 zabbix/zabbix-agent2
+spack/centos7
